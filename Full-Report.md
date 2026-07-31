@@ -3,7 +3,6 @@
 
 **Submitted as the project of the course:** Advanced Diploma in Cyber Defence
 **By:** Ananthakrishnan K S
-**Under the guidance of:** Mr. Saurav Sha
 **RedTeam Hacker Academy, Kochi** · Kaloor, Ernakulam 682017
 
 ---
